@@ -1,0 +1,44 @@
+/* App.css */
+:root {
+  --primary-color: #00796b;
+  --secondary-color: #004d40;
+  --background-color: #121212;
+  --text-color: #ffffff;
+  --card-background: #1e1e1e;
+  --accent-color: #ffab40;
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Responsive Typography */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* General Media Query */
+@media (max-width: 768px) {
+  .container {
+    padding: 0.5rem;
+  }
+}

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,  
+      "title": "YouDescribe",
+      "description": "Optimized audio playback performance, enhanced system efficiency, and modernized the codebase by migrating to TypeScript and refactoring React components.",
+      "techStack": ["React", "Python", "JavaScript", "Node.js", "MongoDB", "MySQL", "AWS"],
+      "imageUrl": "/assets/projects/youdescribe.png",
+      "liveLink": "https://ydx.youdescribe.org/home"
+    },
+    {
+      "id": 2,
+      "title": "Code Talkers",
+      "description": "Built a MERN stack app using OpenAI API, hosted on AWS, and conducted 30+ unit/integration tests with React Testing Library.",
+      "techStack": ["React", "Node.js", "MongoDB", "AWS", "OpenAI"],
+      "imageUrl": "/assets/projects/codetalkers.png",
+      "githubLink": "https://github.com/ManaliSeth/Code-Talkers"
+    },
+    {
+      "id": 3,
+      "title": "Gator Learn",
+      "description": "Led a team of 7 to build a web platform for tutoring services hosted on AWS using Python, Flask, and MySQL.",
+      "techStack": ["Python", "Flask", "MySQL", "AWS", "HTML", "CSS", "GitHub"],
+      "imageUrl": "/assets/projects/gatorlearn.png",
+      "githubLink": "https://github.com/ManaliSeth/Gator-Learn"
+    }
+  ]
+  
